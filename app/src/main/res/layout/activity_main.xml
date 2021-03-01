@@ -18,7 +18,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textAllCaps="false"
-        android:onClick="topicture"/>
+        android:onClick="toPicture"/>
     <Button
         android:text="postTest"
         android:layout_width="match_parent"

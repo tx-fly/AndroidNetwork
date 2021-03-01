@@ -5,6 +5,7 @@
         <domain includeSubdomains="true">sunofbeaches.com</domain>
         <domain-config cleartextTrafficPermitted="true">
 <!--            <domain includeSubdomains="true">timgsa.baidu.com</domain>-->
+<!--            域名-->
             <domain includeSubdomains="true">www.sunofbeaches.com</domain>
             <domain includeSubdomains="true">10.0.2.2</domain>
         </domain-config>
